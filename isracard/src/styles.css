@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+.pad{
+padding: 10px;
+margin: 2px;
+}
+ .border{
+     border-style: solid;
+     border-width: .5px;
+ }
+
+ .boxSize{
+height: auto;
+width: 250px;
+ }
+
+ .text-center
+ {
+     text-align: center;
+ }
+
+ .display-inline-block{
+    display: inline-block;
+ }
